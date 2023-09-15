@@ -1,8 +1,8 @@
 # 20CS713 PROJECT PHASE 1-C9
 
-#### Project Title: 
+#### Project Title: Image to Speech using AI
 
-#### Project Domain:
+#### Project Domain: Artificial Intelligence
 
 ## Team Members
 
