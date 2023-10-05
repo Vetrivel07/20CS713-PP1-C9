@@ -1,6 +1,6 @@
 # 20CS713 PROJECT PHASE 1-C9
 
-#### Project Title: Image to Speech using AI
+#### Project Title: Damaged Car Detection using Multiple Convolutional neural networks with Flask Web app
 
 #### Project Domain: Artificial Intelligence
 
