@@ -1,8 +1,6 @@
-# 20CS713 PROJECT PHASE 1-C9
+## Project Title: SMART DETECTION OF CAR DEFECTIVE PARTS WITH RECOMMENDATIONS
 
-### Project Title: Damaged Car Detection using Multiple Convolutional neural networks with Flask Web app
-
-### Project Domain: Artificial Intelligence
+## Project Domain: ARTIFICIAL INTELLIGENCE
 
 ## Team Members
 
